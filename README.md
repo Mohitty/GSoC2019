@@ -72,7 +72,8 @@ To run the apps follow these steps:
     "files", "markdown-editor", "pdf-viewer", "preferences", "root-viewer"
   ]
   ```
-  4. Run the following commands in order, from the root of Phoenix repo:
+  4. (Alternative Step) Instead of above three steps you can use my local repo with all the above steps already done: https://github.com/Mohitty/preferencesApp . Then go to the next step.
+  5. Run the following commands in order, from the root of the repo:
     - `yarn install`
     - `yarn dist`
     - `docker run --rm -it --name node-docker -v $PWD:/home/app -w /home/app -e "PORT=3000" -p 3000:3000 -p 8300:8300  -u node node:latest yarn watch`
@@ -361,7 +362,8 @@ To run the apps follow these steps:
   [grpc.services.appprovidersvc.demo]
   iframe_ui_provider = "http://localhost:9998/iframe"
   ```
-  3. Run the following commands in order, from the root of REVA repo:
+  3. (Alternative way) Instead of above two steps, you can also use my local repo with above steps already done: https://github.com/Mohitty/reva_preferences . Then go to step 4.
+  4. Run the following commands in order, from the root of the repo:
     - `make`
     - `cmd/revad/revad -c local.toml -p revad.pid | jq`
     
