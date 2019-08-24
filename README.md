@@ -50,6 +50,7 @@ The following two repositories contains the work done in Phoenix:
 - https://github.com/Mohitty/SettingsApp
 - https://github.com/Mohitty/RootViewer
 
+### Testing the apps
 To run the apps follow these steps:
 - Getting up phoenix:
   1. Clone the owncloud Phoenix repository: https://github.com/owncloud/phoenix
