@@ -9,6 +9,8 @@ Bring Your Own Application
 
 ### [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#4701513761423360)
 
+### [GSoC Project Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/4744991757303808_1554811617_Project_Proposal2.pdf?Expires=1566728775&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=VL03LkeqSaLzGY20a2bfM28jRt7Gwcr%2FD7zXhdpY7tHq18Tf3c%2F4uN6Smx7KoxXJ2rkrENlWRDpcin4T1rUc7kyPgOpBMzT%2FIhEP9sJC0CBoB5DTY6BTYA%2F7tX%2FAgRq%2BM1CyCpUVWjrDYsPLzY2UzkXZkj3bpWI84ez3pZ9dDe8%2FQxiZ9bTFsQmx4zep5JcH5egkgBnm7H%2F9jqAKD0UgfWbmgEm5VCOKFH8cdmZNlmCAY6WZ8N4AhG52iESOoMRKOWAox2TKmg0aTPaeF79rASX5EujaYg8BCKIliptUj%2FPRYV1XHHd97M30fNtvZpj6diTN1c6rrzpwWPdexR2dFg%3D%3D)
+
 ### Work Summary
 For GSoC 2019 I created the following two Phoenix application:
 #### User Preferences App
